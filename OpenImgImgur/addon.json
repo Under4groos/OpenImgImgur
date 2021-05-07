@@ -1,0 +1,11 @@
+{
+	"title"		:	"OpenImgImgur",
+	"type"		:	"tool",
+	"tags"		:	[ "fun", "comic" ],
+	"ignore"	:
+	[
+		"*.psd",
+		"*.vcproj",
+		"*.svn*"
+	]
+}
